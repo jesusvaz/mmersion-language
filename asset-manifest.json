@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mmersion-language/static/css/main.8a3966bf.chunk.css",
+    "main.js": "/mmersion-language/static/js/main.7a8e1c01.chunk.js",
+    "main.js.map": "/mmersion-language/static/js/main.7a8e1c01.chunk.js.map",
+    "runtime-main.js": "/mmersion-language/static/js/runtime-main.3df4db58.js",
+    "runtime-main.js.map": "/mmersion-language/static/js/runtime-main.3df4db58.js.map",
+    "static/js/2.b5e87ffd.chunk.js": "/mmersion-language/static/js/2.b5e87ffd.chunk.js",
+    "static/js/2.b5e87ffd.chunk.js.map": "/mmersion-language/static/js/2.b5e87ffd.chunk.js.map",
+    "static/js/3.e91a2954.chunk.js": "/mmersion-language/static/js/3.e91a2954.chunk.js",
+    "static/js/3.e91a2954.chunk.js.map": "/mmersion-language/static/js/3.e91a2954.chunk.js.map",
+    "index.html": "/mmersion-language/index.html",
+    "static/css/main.8a3966bf.chunk.css.map": "/mmersion-language/static/css/main.8a3966bf.chunk.css.map",
+    "static/js/2.b5e87ffd.chunk.js.LICENSE.txt": "/mmersion-language/static/js/2.b5e87ffd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df4db58.js",
+    "static/js/2.b5e87ffd.chunk.js",
+    "static/css/main.8a3966bf.chunk.css",
+    "static/js/main.7a8e1c01.chunk.js"
+  ]
+}
